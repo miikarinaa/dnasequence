@@ -1,7 +1,5 @@
 '''
 Naomi Havelaar
-Nathaniel Ventura
-CECS 174
 '''
 # Takes a DNA sequence string and adds the desired number of dashes to the end of the sequence.
 # Returns the new string with the dash at the end. 
